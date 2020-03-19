@@ -2,8 +2,11 @@
 03/16/2020 - 03/25/2020
 
 <b>My Name</b>: Cherish Kim
+
 <b>Project Name</b>: COVID-19 Data Analysis Across Nations
+
 <b>New/Old?</b>: New
+
 <b>Solo/Team?</b>: Solo
 
 ## Description
