@@ -10,8 +10,7 @@
 <b>Solo/Team?</b>: Solo
 
 ## Description
-# TODO: Write a paragraph summary of the current status of your project, what you hope to achieve during the intensive, how and why
-# TODO: For each objective -- Why do you want to meet this objective? How will it improve your project? && How will you demonstrate completion of your objective?
+The end game of completing a series of Exploratory Data Analyses (EDAs) is to use what I find to inform my lines of inquiry when I contribute to the COVID-19 Open Research Dataset Challenge (CORD-19): https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge, a challenge requiring more than a week's worth of time IMO. I hope to glean insight from analyzing datasets from South Korea, Italy, and the United States, and then carry those insights with me into the Open Research Challenge.
 
 ## 🥇Objective #1: Exploratory Data Analysis (EDA) on South Korea
 * <i>Dataset: https://www.kaggle.com/kimjihoo/coronavirusdataset</i>
@@ -29,5 +28,5 @@
 * <b>To demonstrate completion</b>, I will link to the GitHub commit in the tracker.
 
 ## 🔥Stretch goals (_optional_)
-1. Parlay findings from EDAs into text mining and other machine learning efforts for the COVID-19 Open Research Dataset Challenge (CORD-19): https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
+1. Parlay findings from EDAs into text mining and other machine learning efforts for CORD-19.
 1. User-interactive website to display data in a visual, easily digestible way.
