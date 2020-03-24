@@ -15,18 +15,19 @@ The end game of completing a series of Exploratory Data Analyses (EDAs) is to us
 ## 🥇Objective #1: Exploratory Data Analysis (EDA) on South Korea
 * <i>Dataset: https://www.kaggle.com/kimjihoo/coronavirusdataset</i>
 * <b>Why?</b>: By making tests readily available, South Korea successfully brought down the number of new cases each day (though officials are watchful for a resurgence, as there are still new clusters emerging). South Korea is a country that has clearly done something right, so I want to take a look at its data.
-* <b>To demonstrate completion</b>, I will link to the GitHub commit in the tracker.
+* <b>To demonstrate completion</b>, I will answer most or all of the questions in questions.md.
 
 ## 🥈Objective #2: EDA on Italy
 * <i>Dataset: https://www.kaggle.com/sudalairajkumar/covid19-in-italy</i>
 * <b>Why?</b>: The COVID-19 pandemic has reached crisis levels in Italy, which has the world's second-oldest population. The Italian doctors and nurses fighting on the front lines of this infection are pleading with the rest of the world to take this issue seriously. I am trying to, by analyzing their data!
-* <b>To demonstrate completion</b>, I will link to the GitHub commit in the tracker.
+* <b>To demonstrate completion</b>, I will answer most or all of the questions in questions.md.
 
 ## 🥉Objective #3: EDA on the USA
 * <i>Dataset: https://www.kaggle.com/sudalairajkumar/covid19-in-usa#us_states_covid19_daily.csv</i>
 * <b>Why?</b>: America's present situation can be attributed to, among other factors: limited testing; strangled access to that testing; substandard medical infrastructure, in terms of its ability to meet the needs of its population without becoming overwhelmed; and misaligned political incentives. As an American, I'm quite personally invested in how the situation pans out stateside.
-* <b>To demonstrate completion</b>, I will link to the GitHub commit in the tracker.
+* <b>To demonstrate completion</b>, I will answer most or all of the questions in questions.md.
 
 ## 🔥Stretch goals (_optional_)
+1. Add basic prediction models & *statistical analyses*.
 1. Parlay findings from EDAs into text mining and other machine learning efforts for CORD-19.
 1. User-interactive website to display data in a visual, easily digestible way.
